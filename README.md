@@ -255,13 +255,13 @@ app.baseURL = 'http://localhost:8080/'
 _(Add screenshots here showing the application interface)_
 
 ### Main Customer List
-![Customer List](screenshots/customer-list.png)
+![Customer List](./docs/images/customer_list.png)
 
 ### Search Functionality
-![Search Results](screenshots/search-results.png)
+![Search Results](./docs/images/search_country.png)
 
 ### No Data Found
-![No Data](screenshots/no-data.png)
+![No Data](./docs/images/not_found.png)
 
 ## 🛠️ Technologies Used
 
